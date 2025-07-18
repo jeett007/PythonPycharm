@@ -64,8 +64,8 @@ This is a simple Python program that takes the user's **first name** and **last 
 1. **Clone this repository** (or download the file directly):
    ```bash
 output:
-Enter your first name: Parijit
+Enter your first name: Arijit
 Enter your last name: Ghosh
-Hello, Parijit Ghosh! Welcome!
+Hello, Arijit Ghosh! Welcome!
 
 
