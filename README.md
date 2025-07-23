@@ -68,4 +68,35 @@ Enter your first name: Arijit
 Enter your last name: Ghosh
 Hello, Arijit Ghosh! Welcome!
 
+# Assignment 2: Control Structures in Python
+
+This repository contains solutions for **Assignment 2** of **Module 3: Control Structures in Python**. The assignment includes two tasks focused on using `if-else` and loop structures in Python.
+
+---
+
+## 🔢 Task 1: Check if a Number is Even or Odd
+
+- Prompts the user to enter an integer.
+- Checks if the number is even or odd using an `if-else` statement.
+- Displays an appropriate message.
+
+📄 **File**: `even_or_odd.py`
+
+### Example Output:
+Enter an integer: 8
+The number 8 is even.
+
+
+---
+
+## 🔁 Task 2: Sum of Integers from 1 to 50 Using a Loop
+
+- Uses a `for` loop to calculate the sum of integers from 1 to 50.
+- Displays the total sum.
+
+📄 **File**: `sum_1_to_50.py`
+
+### Example Output:
+The sum of integers from 1 to 50 is: 1275
+
 
