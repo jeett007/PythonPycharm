@@ -25,3 +25,25 @@ This repository contains two simple Python programs that demonstrate basic mathe
 ```bash
 python factorial_calculator.py
 python math_module_calculations.py
+# File Handling in Python
+
+This repository contains Python scripts demonstrating basic file handling operations, including reading, writing, and appending to text files with error handling.
+
+## Task 1: Read a File and Handle Errors
+- Reads content from a file named `sample.txt`.
+- Prints each line of the file.
+- If the file does not exist, it shows an error message.
+
+### File: `read_file.py`
+
+## Task 2: Write and Append Data to a File
+- Takes user input and writes it to `output.txt`.
+- Appends additional user input to the same file.
+- Displays the final content of the file.
+
+### File: `write_append_file.py`
+
+## How to Run
+```bash
+python read_file.py
+python write_append_file.py
